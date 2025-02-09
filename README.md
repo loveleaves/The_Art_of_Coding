@@ -1,7 +1,8 @@
 # design_pattern
 
-## Referendum
+## References
 - [设计模式之美-王争](./设计模式之美-王争/README.md)
+- [菜鸟教程](https://www.runoob.com/design-pattern/design-pattern-intro.html)
 - [Design Patterns - Elements of Reusable Object-Oriented Software](https://github.com/ben-elbert/books/blob/master/Design%20Patterns%2C%20Elements%20of%20Reusable%20Object-Oriented%20Software.pdf)
 
 ## 设计模式简介
